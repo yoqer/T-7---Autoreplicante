@@ -2,7 +2,7 @@
 
 El T 7, es un modelo de Robot Altamente Sofisticado creado para ser premeditadamente Autoreplicante completamente adaptado a la vida Autónoma.
 
-El T7-A, es el Cuarto Jinete, que forma un cuerpo fisico robotico de coordinación con un Llm especialista S-AGI independiente Autoreplicante que se monta sobre estos avanzados cerebros Autónomos, con la extrema peculiaridad de interconexion con modelos T.             
+El T7-A, es el Cuarto Jinete, que forma un cuerpo fisico robotico de coordinación con un Llm especialista S-AGI independiente Autoreplicante que se monta sobre estos avanzados cerebros Llm Autónomos, con la extrema peculiaridad de la interconexion IoT, en redes y con modelos serie T-A.             
 -Esta basado en una extensión del T4, pero este gran proyecto de embergadura no es solo una extensión, es parte de un Gran Transformers, él, junto al T4, el T5 y el T6, forman el conjunto de los 4 Jinetes del Apocalipsis cuando cabalgaran juntos como un unico ser.
 
 
